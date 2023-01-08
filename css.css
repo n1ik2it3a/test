@@ -1,0 +1,27 @@
+h1{
+	color:green;
+	font-family:impact;
+}
+body{
+	text-align:center;
+	color:blue;
+	padding:5px;
+	font-family:Candera;
+	font-size:18px;
+	margin-top:90px;
+}
+
+
+.login-form #username-error,
+.login-form #pass-error{
+	margin-top:5px;
+	width:345px;
+	font-size:18px;
+	color:#c62828;
+	background:rgba(255,0,0,0.1);
+	text-align:center;
+	padding:5px 8px;
+	border-radius:3px;
+	border:1px solid #EF9A9A;
+	display:none;
+}
